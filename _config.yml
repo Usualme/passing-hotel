@@ -7,14 +7,14 @@ title: 过客的旅店
 subtitle: 所有的经历，都是财富。
 description: 三张写字的地方
 author: 三张
-language: zh-hans
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://usual.pw
 root: /
-permalink: :category/:title/
+permalink: :year/:title.html
 permalink_defaults:
   lang: en
 
